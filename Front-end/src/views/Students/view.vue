@@ -28,9 +28,10 @@
                             <td>{{ student.email }}</td>
                             <td>{{ student.phone }}</td>
                             <td>{{ student.created_at}}</td>
-                            <td>{{ student.action}}</td>
+                            <td>{{ student.action}}
                             <RouterLink to="/student/edit" class="btn btn-success"> Edit</RouterLink>
                             <RouterLink to="/student/delete" class="btn btn-danger"> Delete</RouterLink>
+                            </td>
                         </tr>
                     </tbody>
                     <tbody v-else>
@@ -54,11 +55,14 @@ export default {
         }
     },
     mounted(){
+        this.getStudents();
         // console.log('I am here')
     },
     methods : {
         getStudents(){
-            axios.get().then(res => {
+            axios.get('http://127.0.0.1:8000/api/students').then(res => {
+                this.students = res.data.students
+                // console.log(this.students)
             });
         }
     }
