@@ -1,7 +1,6 @@
 Vue Js CRUD Application
 ---
-This application was created by using Vue.Js-3 and Laravel-11. Vue.Js-3 and Bootstrap-5 were used for the front end and Laravel-11 was used for the API(back end). And MySQL is used as the database. Using this application, you can add, edit/update, and delete data.<br><br>
-Demo Link - 
+This application was created by using Vue.Js-3 and Laravel-11. Vue.Js-3 and Bootstrap-5 were used for the front end and Laravel-11 was used for the API(back end). And MySQL is used as the database. Using this application, you can add, edit/update, and delete data.<br>
 
 Technology & Tools
 ---
