@@ -35,7 +35,8 @@ How to run in local
 ---
 <br>
 <ol>
-  <li>Open <b>Xampp</b> and run <b>Apache</b> and <b>MySQL <b>servers</li>
+  <li>Open <b>Xampp</b> and run <b>Apache</b> and <b>MySQL</b> servers</li>
+  <li>Go to <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a> and create a database as "vuejs" and import the database file from the database folder</li>
   <li><a href="https://github.com/HasanChinthaka/Vue_JS_CRUD_APP/archive/refs/heads/main.zip">Download</a> or <a href="https://github.com/HasanChinthaka/Vue_JS_CRUD_APP.git">clone</a> repository</li>
   <li>If you clone the repository, go to the local repository folder (if you download unzip the repository and go to the folder)</li>
   <li>Open the <b>API</b> folder in your using a text editor</li>
