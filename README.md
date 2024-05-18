@@ -5,3 +5,13 @@ Vue Js CRUD Application
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8311f9.svg?logo=bootstrap&logoColor=white"></a><br>
 ---
 This application was created by using Vue.Js-3 and Laravel-11. Vue.Js-3 and Bootstrap-5 were used for the front end and Laravel-11 was used for the API(back end). Using this application, you can add, edit/update, and delete data.
+<br>
+
+How to run in local
+---
+<br>
+<ol>
+  <li>Download or clone repositary</li>
+  <li>If you clone the repository, go to the local repository folder (if you download unzip the repository and go to the folder)</li>
+  <li>Open <b>Api</b> folder and open cmd or PowerShell in same file path</li>
+</ol>
