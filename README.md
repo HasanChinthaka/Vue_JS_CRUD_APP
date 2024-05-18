@@ -3,12 +3,13 @@ Vue Js CRUD Application
 This application was created by using Vue.Js-3 and Laravel-11. Vue.Js-3 and Bootstrap-5 were used for the front end and Laravel-11 was used for the API(back end). And MySQL is used as the database. Using this application, you can add, edit/update, and delete data.<br><br>
 Demo Link - 
 
-Technology
+Technology & Tools
 ---
 <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-orange.svg?logo=laravel&logoColor=white"></a>
 <a href="https://vuejs.org/"><img alt="Vue.Js" src="https://img.shields.io/badge/Vue.js-35495E?&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8311f9.svg?logo=bootstrap&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=mysql&logoColor=white"></a>
+<a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-blue.svg?logo=visual%20studio%20code"></a>
 
 Specification
 ---
@@ -34,11 +35,11 @@ Requerment
 How to run in local
 ---
 <br>
-<ol>
-  <li>Open <b>Xampp</b> and run <b>Apache</b> and <b>MySQL</b> servers</li>
-  <li>Go to <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a> and create a database as "vuejs" and import the database file from the database folder</li>
+<ol></ol>
   <li><a href="https://github.com/HasanChinthaka/Vue_JS_CRUD_APP/archive/refs/heads/main.zip">Download</a> or <a href="https://github.com/HasanChinthaka/Vue_JS_CRUD_APP.git">clone</a> repository</li>
   <li>If you clone the repository, go to the local repository folder (if you download unzip the repository and go to the folder)</li>
+  <li>Open <b>Xampp</b> and run <b>Apache</b> and <b>MySQL</b> servers</li>
+  <li>Go to <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a> and create a database as "vuejs" and import the database file from the database folder</li>
   <li>Open the <b>API</b> folder in your using a text editor</li>
   <li>Type the command below in the text editor terminal</li><br>
   
