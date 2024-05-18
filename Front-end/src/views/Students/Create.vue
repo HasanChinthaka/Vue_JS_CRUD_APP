@@ -16,6 +16,7 @@
             type="text"
             v-model="model.student.name"
             class="form-control"
+            name="name"
           />
         </div>
         <div class="mb-3">
@@ -24,6 +25,7 @@
             type="text"
             v-model="model.student.course"
             class="form-control"
+            name="course"
           />
         </div>
         <div class="mb-3">
@@ -32,6 +34,7 @@
             type="email"
             v-model="model.student.email"
             class="form-control"
+            name="email"
           />
         </div>
         <div class="mb-3">
@@ -40,6 +43,7 @@
             type="tel"
             v-model="model.student.phone"
             class="form-control"
+            name="phoneNo"
           />
         </div>
         <div class="mb-3">

@@ -8,7 +8,6 @@ import HelloWorld from "./components/HelloWorld.vue";
     <div class="wrapper">
       <nav class="navbar navbar-expand-lg navbar-dark  bg-dark">
         <div class="container">
-          <RouterLink class="navbar-brand" to="/">Navbar</RouterLink>
           <button
             class="navbar-toggler"
             type="button"
@@ -23,13 +22,7 @@ import HelloWorld from "./components/HelloWorld.vue";
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <RouterLink class="nav-link active" to="/">Home</RouterLink>
-              </li>
-              <li class="nav-item">
-                <RouterLink class="nav-link" to="/about">About Us</RouterLink>
-              </li>
-              <li class="nav-item">
-                <RouterLink class="nav-link" to="/students">Students</RouterLink>
+                <RouterLink class="nav-link" to="/">Students</RouterLink>
               </li>
             </ul>
           </div>
