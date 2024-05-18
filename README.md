@@ -11,7 +11,7 @@ How to run in local
 ---
 <br>
 <ol>
-  <li>Download or clone repositary</li>
+  <li><a href="https://github.com/HasanChinthaka/Vue_JS_CRUD_APP/archive/refs/heads/main.zip">Download</a> or <a href="https://github.com/HasanChinthaka/Vue_JS_CRUD_APP.git">clone repository</a></li>
   <li>If you clone the repository, go to the local repository folder (if you download unzip the repository and go to the folder)</li>
   <li>Open <b>Api</b> folder and open cmd or PowerShell in same file path</li>
 </ol>
